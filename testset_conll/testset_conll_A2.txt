@@ -1195,7 +1195,6 @@ Index	Word	Lemma	UPOS	XPOS	Feats	MISC
 5	jargmisel	järgmine	ADJ	A	Case=Ade|Degree=Pos|Number=Sing	TaggedLemma=jargmine|CorrectWord=järgmisel|Error=Spelling
 6	astat	aasta	NOUN	S	Case=Par|Number=Sing	TaggedLemma=asta|CorrectWord=aastal|Error=Spelling|Error=WordForm|Error=WordOrderEnd|SpaceAfter=No
 7	.	.	PUNCT	Z	_	_
-Index	Word	Lemma	UPOS	XPOS	Feats	MISC
 1	Müüa	müüma	VERB	V	VerbForm=Inf	_
 2	auto	auto	NOUN	S	Case=Nom|Number=Sing	SpaceAfter=No
 3	.	.	PUNCT	Z	_	Error=Error=PunctChoice(!)
