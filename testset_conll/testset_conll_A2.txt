@@ -1072,7 +1072,7 @@ Index	Word	Lemma	UPOS	XPOS	Feats	MISC
 4	.	.	PUNCT	Z	_	_
 1	Ma	mina	PRON	P	Case=Nom|Number=Sing|Person=1|PronType=Prs	_
 2	läksin	minema	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	_
-3	musemius	muuseum	NOUN	S	Case=Ine|Number=Sing	TaggedLemma=musemius|CorrectWord=muuseumisse|Error=Spelling|Error=WordForm
+3	musemius	muuseum	NOUN	S	Case=Ine|Number=Sing	TaggedLemma=musemius|CorrectWord=(muuseumi;muuseumisse)|Error=Spelling|Error=WordForm
 4	ja	ja	CCONJ	J	_	_
 5	ekskursioni	ekskursioon	NOUN	S	Case=Gen|Number=Sing	TaggedLemma=ekskursion|CorrectWord=ekskursioonile|Error=Spelling|Error=WordForm|SpaceAfter=No
 6	.	.	PUNCT	Z	_	_
