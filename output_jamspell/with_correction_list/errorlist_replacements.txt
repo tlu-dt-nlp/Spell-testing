@@ -1,0 +1,14 @@
+{'elanikutele': 1, 'kokkuvõteks': 1, 'alkohooli': 4, 'gruppid': 1,
+'gruppis': 1, 'suuredes': 2, 'laupäval': 1, 'väidasid': 1, 'vadata': 1,
+'esmapäevast': 1, 'müüan': 1, 'soobib': 2, 'oodan': 1, 'kaisin': 3,
+'laksin': 1, 'ulikoolis': 1, 'puhkusin': 1, 'ekskursioni': 1, 'kalis': 1,
+'sõidsin': 3, 'sõidsime': 1, 'sõidata': 1, 'jargmisel': 1, 'astat': 1,
+'ootada': 1, 'klientid': 1, 'salon': 1, 'adress': 1, 'ostasime': 1, 'täti':
+1, 'inimeseid': 1, 'vahemalt': 2, 'soje': 1, 'ümbes': 1, 'kinkin': 1,
+'rägitakse': 1, 'politika': 1, 'baarisse': 1, 'kontsertil': 1, 'ostin': 1,
+'äres': 1, 'võttame': 1, 'kaisime': 1, 'konserdil': 3, 'restoraanis': 1,
+'lõppus': 1, 'sõbradega': 1, 'süüja': 1, 'näitkes': 1, 'proektid': 1,
+'väikset': 1, 'õpis': 2, 'konsert': 1, 'kontserd': 1, 'restoranisse': 1,
+'pälju': 1, 'saamuti': 1, 'pakkun': 1, 'liisaks': 1, 'kokkana': 1,
+'praaegu': 1, 'hakkanud': 1, 'ültse': 1, 'liisada': 1, 'normalselt': 1,
+'lõppuks': 1}
