@@ -3,7 +3,7 @@
 This repository contains a gold standard test set of Estonian L2 learner texts and spelling correction output of various spell-checking tools available for Estonian. The work has been described in the following paper:
 > Allkivi-Metsoja, K., & Kippar, J. (2023). [Spelling Correction for Estonian Learner Language](https://aclanthology.org/2023.nodalida-1.79/). _Proceedings of the 24th Nordic Conference on Computational Linguistics (NoDaLiDa)_. ACL Anthology, 782–788.
 
-**Update:** The best Jamspell models have been tested together with an error-correction list used for word replacement as a preprocessing step.
+**Update:** The best Jamspell models have been tested together with an error-correction list used for word replacement as a preprocessing step. See the directory [`output_jamspell/with_correction_list`](output_jamspell/with_correction_list).
 
 ## Tools in comparison
 L2 learners tend to make specific spelling errors, such as real-word errors, diacritic errors or pronunciation-induced errors that may have a large edit distance. Language-independent spell-checking algorithms that rely on n-gram models can offer a simple solution for improving learner error detection and correction due to context-sensitivity. Our aim was to evaluate the performance of bi- and trigram based statistical spelling correctors on an error-tagged set of A2–C1-level texts. For this purpose, we used:
