@@ -46,7 +46,7 @@ The three highest-ranked Jamspell models were combined with a list of reoccurrin
 
 **Table 2.** Spelling error detection (ED) and correction (EC) metrics (%) of Jamspell models
 
-| Speller | ED precision | ED recall | ED F0.5 | EC precision | EC recall | EC F0.5 |
+| Speller | ED recall | ED precision | ED F0.5 | EC recall | EC precision | EC F0.5 |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | RC sample | **67.0** | 89.6 | **83.9** | **50.8** | 68.0 | 63.7 |
 | Web19 | 53.7 | **94.3** | 81.9 | 42.4 | **74.4** | **64.7** |
